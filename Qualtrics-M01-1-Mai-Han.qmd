@@ -1,0 +1,47 @@
+---
+title: "Qualtrics M01-1: Designing a Survey"
+author: "Han Mai"
+format:
+  html:
+    embed-resources: true
+---
+
+## Qualtrics Survey Rough Draft
+
+For this assignment, I created a Qualtrics version of the "Survey of Educational Needs of MR Professionals" using my Cal Poly Pomona Qualtrics account.
+
+I organized the survey into five blocks and incorporated the required question formats, display logic, skip logic, recode values, and other survey functions.
+
+## Proof of Project Sharing
+
+The screenshot below shows that I shared the Qualtrics survey with Dr. Jae Jung and provided the required collaboration permissions.
+
+![](images/01-sharing.png)
+
+## Beginning of the Survey
+
+The screenshot below shows the beginning of the survey, including the cover page and screening questions.
+
+![](images/02-beginning.png)
+
+## Middle of the Survey
+
+The screenshot below shows the middle portion of the survey, including the Educational Needs section.
+
+![](images/03-middle.png)
+
+## End of the Survey
+
+The screenshot below shows the ending portion of the survey, including the final demographic questions and open-ended response fields.
+
+![](images/04-ending.png)
+
+## Appendix
+
+### GitHub Repository
+
+[GitHub Repository](PASTE-REPOSITORY-URL-HERE)
+
+### GitHub Pages
+
+[GitHub Pages](PASTE-GITHUB-PAGES-URL-HERE)
