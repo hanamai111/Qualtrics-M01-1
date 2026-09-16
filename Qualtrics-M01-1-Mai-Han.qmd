@@ -40,8 +40,8 @@ The screenshot below shows the ending portion of the survey, including the final
 
 ### GitHub Repository
 
-[GitHub Repository](PASTE-REPOSITORY-URL-HERE)
+[View the GitHub Repository](https://github.com/hanamai111/Qualtrics-M01-1)
 
 ### GitHub Pages
 
-[GitHub Pages](PASTE-GITHUB-PAGES-URL-HERE)
+[View the Published Report](https://hanamai111.github.io/Qualtrics-M01-1/)
